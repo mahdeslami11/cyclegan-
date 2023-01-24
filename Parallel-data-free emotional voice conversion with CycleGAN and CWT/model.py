@@ -148,7 +148,7 @@ class CycleGAN(object):
     def load(self, filepath):
 
         self.saver.restore(self.sess, filepath)
-
+#eslahie emlaie
 
     def summary(self):
 
