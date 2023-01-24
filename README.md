@@ -73,7 +73,9 @@ $ python train_f0.py --train_A_dir './data/training/NEUTRAL(PATH TO SOURCE TRAIN
 ```Bash
 $ python convert_separate.py --model_f0_dir './model/neutral_to_surprise_f0' --model_f0_name 'neutral_to_surprise_f0.ckpt' --model_mceps_dir './model/neutral_to_surprise_mceps' --model_mceps_name 'neutral_to_surprise_mceps.ckpt' --data_dir './data/evaluation_all/NEUTRAL(PATH TO EVALUATION DATA)' --conversion_direction 'A2B' --output_dir './converted_voices_neutral_to_surprise_separate'
 ```
-
+maryam msv
+olom tahghighat
+40012340048019
 
 **Note1:** 
 The codes are based on CycleGAN Voice Conversion: https://github.com/leimao/Voice_Converter_CycleGAN
